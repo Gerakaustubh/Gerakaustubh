@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Kaustubh Gera 👋
 
-<!--
-**Gerakaustubh/Gerakaustubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student | Developer | Photographer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science Undergraduate
+- 📷 Founder of EktaraByKaustubh
+- 💻 Learning Web Development & DSA
+- 🚀 Exploring Open Source
+
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+
+## Currently Working On
+
+- Building my portfolio website
+- Improving DSA skills
+- Learning Git and GitHub
+
+## Connect With Me
+
+- Instagram: @ektarabykaustubh
+- GitHub: @Gerakaustubh
