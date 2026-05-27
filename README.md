@@ -27,3 +27,9 @@ Computer Science Student | Developer | Photographer
 
 - Instagram: @ektarabykaustubh
 - GitHub: @Gerakaustubh
+
+## GitHub Stats
+
+![Kaustubh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gerakaustubh&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerakaustubh&layout=compact)
