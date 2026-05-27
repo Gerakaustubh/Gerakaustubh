@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Web+Developer;Photographer;Building+Ektara+By+Kaustubh" />
+</p>
 # Hi, I'm Kaustubh Gera 👋
 
 Computer Science Student | Developer | Photographer
