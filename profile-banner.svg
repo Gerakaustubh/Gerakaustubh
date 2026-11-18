@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 180" width="960" height="180" role="img" aria-labelledby="title">
+  <title id="title">Kaustubh Gera — Backend engineering and applied AI</title>
+  <defs>
+    <linearGradient id="base" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101a2b"/><stop offset="1" stop-color="#172842"/>
+    </linearGradient>
+    <linearGradient id="trace">
+      <stop stop-color="#71e0c4" stop-opacity=".15"/><stop offset=".56" stop-color="#71e0c4"/><stop offset="1" stop-color="#8baaff"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#92b1e8" stroke-opacity=".12"/>
+    </pattern>
+    <clipPath id="crop"><rect width="960" height="180" rx="20"/></clipPath>
+  </defs>
+  <style>
+    .signal { stroke-dasharray: 520; animation: draw 2s ease-out both; }
+    .light { transform-box: fill-box; transform-origin: center; animation: pulse 1.3s ease-in-out 2 alternate; }
+    .light:nth-of-type(2) { animation-delay: .4s; }
+    .light:nth-of-type(3) { animation-delay: .8s; }
+    @keyframes draw { from { stroke-dashoffset: 520; } to { stroke-dashoffset: 0; } }
+    @keyframes pulse { from { opacity: .45; transform: scale(.75); } to { opacity: 1; transform: scale(1.25); } }
+    @media (prefers-reduced-motion: reduce) { .signal, .light { animation: none; } }
+  </style>
+  <g clip-path="url(#crop)">
+    <path d="M0 0h960v180H0z" fill="url(#base)"/>
+    <path d="M492 0h468v180H492z" fill="url(#grid)"/>
+    <circle cx="812" cy="91" r="107" fill="#5a7cdb" opacity=".08"/>
+    <circle cx="812" cy="91" r="79" fill="none" stroke="#9fb7f9" stroke-opacity=".19"/>
+    <path d="M46 45h42" stroke="#71e0c4" stroke-width="3" stroke-linecap="round"/>
+    <text x="46" y="107" fill="#f3f7ff" font-family="system-ui,sans-serif" font-size="49" font-weight="700" letter-spacing="-1.2">Kaustubh Gera</text>
+    <text x="48" y="137" fill="#b4c4e2" font-family="system-ui,sans-serif" font-size="18">Backend engineering · Real-time systems · Applied AI</text>
+    <path class="signal" d="M562 112h82l26-27 34 46 36-73 29 54h40l21-28 24 28h64" fill="none" stroke="url(#trace)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#a2f4df"><circle class="light" cx="670" cy="85" r="4"/><circle class="light" cx="740" cy="58" r="5"/><circle class="light" cx="830" cy="84" r="4"/></g>
+  </g>
+</svg>
