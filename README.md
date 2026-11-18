@@ -1,41 +1,8 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Web+Developer;Photographer;Building+Ektara+By+Kaustubh" />
-</p>
+# Hi, I’m Kaustubh Gera
 
-# Hi, I'm Kaustubh Gera 👋
+I’m a computer science undergraduate at LNMIIT interested in backend engineering, real-time systems, and applied AI. I also run Ektara, my street and nature photography portfolio.
 
-Computer Science Student | Developer | Photographer
+## Selected projects
 
-## About Me
-
-- 🎓 Computer Science Undergraduate
-- 📷 Founder of EktaraByKaustubh
-- 💻 Learning Web Development & DSA
-- 🚀 Exploring Open Source
-
-## Tech Stack
-
-- HTML
-- CSS
-- JavaScript
-- Python
-- Git & GitHub
-
-## Currently Working On
-
-- Building my portfolio website
-- Improving DSA skills
-- Learning Git and GitHub
-
-## Connect With Me
-
-- Instagram: @ektarabykaustubh
-- GitHub: @Gerakaustubh
-
-## GitHub Stats
-
-![Kaustubh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gerakaustubh&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gerakaustubh&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=Gerakaustubh)
+- **[PulseOps](https://github.com/Gerakaustubh/pulseops)** — A Go backend prototype that syncs updates across WebSocket clients. It uses PostgreSQL and Redis and explores version checks for concurrent edits and event replay after reconnects.
+- **[Ektara by Kaustubh](https://ektarabykaustubh.vercel.app)** — My photography portfolio, built with Next.js and JavaScript. [Source code](https://github.com/Gerakaustubh/ektarabykaustubh).
