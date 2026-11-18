@@ -1,4 +1,4 @@
-# Hi, I’m Kaustubh Gera
+![Kaustubh Gera — Backend engineering, real-time systems, and applied AI](./profile-banner.svg)
 
 I’m a computer science undergraduate at LNMIIT interested in backend engineering, real-time systems, and applied AI. I also run Ektara, my street and nature photography portfolio.
 
